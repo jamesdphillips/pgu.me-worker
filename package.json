@@ -1,0 +1,13 @@
+{
+    "name": "pgu.me-worker"
+  , "author": "James Phillips <jamesphillips@aelatis.com>"
+  , "description": "Image processing workers for pgu.me."
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "gm": "latest"
+    , "coffee-resque": "latest"
+    , "hiredis": "latest"
+    , "knox": "latest"
+  }
+}
